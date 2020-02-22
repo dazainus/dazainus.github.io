@@ -1,3 +1,30 @@
+
+VERSIONS
+
+Version 0.3
+
+Feb 21, 2020
+____________________________
+
+UPDATE LOG
+
+* Insert `On Web` link in 'busy bus' project item.
+
+____________________________
+DIRECTION
+
+* A repository for dazainus.gitbub.io
+
+____________________________
+
+Created by Diane D. Han
+
+https://dazainus.gitbub.io/
+
+
+
+____________________________
+
 ## Welcome to Diane's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dazainus/dazainus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
