@@ -1,14 +1,14 @@
 
 VERSIONS
 
-Version 0.3
+Version 0.4
 
-Feb 21, 2020
+March 5, 2020
 ____________________________
 
 UPDATE LOG
 
-* Insert `On Web` link in 'busy bus' project item.
+* Fix typos.
 
 ____________________________
 DIRECTION
